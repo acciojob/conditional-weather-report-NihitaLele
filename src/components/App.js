@@ -11,7 +11,7 @@ const App = () => {
 
   useEffect(()=>{
     setTimeout(()=>{
-      setData({ temperature: 15, conditions: "Sunny" })
+      setData({ temperature: 25, conditions: "Sunny" })
     }, 1000)
   })
 
