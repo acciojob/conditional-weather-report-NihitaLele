@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import './../styles/App.css';
 import WeatherDisplay from "./WeatherDisplay";
 
-const def = {temperature : 0, conditions : "cool"}
+const def = {temperature : 1, conditions : "cool"}
 
 const App = () => {
 
